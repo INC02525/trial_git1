@@ -1,7 +1,0 @@
-start shape -> web service server search ->operation ->Get, Object-sendhttp,ResponseProfile->jsonfileupload
-new process-> httpclientconnection->giveurl
-returndocumentshape->
-//process created
-
-//for api
-new component->select apt feom dropdown
